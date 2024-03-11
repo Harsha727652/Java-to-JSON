@@ -8,4 +8,4 @@ Spring Boot
 Jackson Library
 # Usage
 1.The application will convert a Java object to JSON and save it to a file named details.json in the project's root directory.
-2.Check the details.json file to view the generated JSON data
+2.Check the details.json file to view the generated JSON data.
